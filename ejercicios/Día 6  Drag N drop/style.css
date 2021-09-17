@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(103, 131, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.empty {
+    height: 150px;
+    width: 160px;
+    margin: 10px;
+    border: solid 2px black;
+    background: #fff
+}
+
+.fill {
+    width: 155px;
+    cursor: pointer;
+    height: 145px;
+    background-image: url('https://i.pinimg.com/originals/2e/fc/bb/2efcbb493152333bd99d353806a20b5e.jpg')
+}
+
+.hold {
+    border: solid 2px red;
+}
+
+.hovered {
+    border-style: dashed;
+    background-color: black;
+    background-color: rgb(0, 0, 0)
+}
+
+@media (max-width: 800px) {
+    body {
+        flex-direction: column;
+    }
+}
