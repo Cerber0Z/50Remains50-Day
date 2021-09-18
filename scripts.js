@@ -16,14 +16,14 @@ const restos = [
     {nombre: 'Background Slider', dia: 'Día 15', h:'./ejercicios/Día 15  Background Slider/index.html'},
     {nombre: 'Kinetic loader', dia: 'Día 16', h:'./ejercicios/Día 16 Kinetic loader/index.html'},
     {nombre: 'Netflix Navigation', dia: 'Día 17', h:'./ejercicios/Día 17 Netflix Navigation/index.html'},
-    // {nombre: '', dia: '', h:''},
-    // {nombre: '', dia: '', h:''},
-    // {nombre: '', dia: '', h:''},
-    // {nombre: '', dia: '', h:''},
-    // {nombre: '', dia: '', h:''},
-    // {nombre: '', dia: '', h:''},
-    // {nombre: '', dia: '', h:''},
-    // {nombre: '', dia: '', h:''},
+    {nombre: 'Testimonial Box Switcher', dia: 'Día 18', h:'./ejercicios/Día 18 Testimonial Box Switcher/index.html'},
+    {nombre: 'Pokedex', dia: 'Día 19', h:'./ejercicios/Día 19 Pokedex/index.html'},
+    {nombre: 'Double Click Heart', dia: 'Día 20', h:'./ejercicios/Día 20 Double Click Heart/index.html'},
+    {nombre: 'Event keycodes', dia: 'Día 21', h:'./ejercicios/Día 21 Event keycodes/index.html'},
+    {nombre: 'Mobile Nav Navigation', dia: 'Día 22', h:'./ejercicios/Día 22 Mobile Nav Navigation/index.html'},
+    {nombre: 'Drink Water', dia: 'Día 23', h:'./ejercicios/Día 23 Drink Water/index.html'},
+    {nombre: 'Feedback UI Design', dia: 'Día 24', h:'./ejercicios/Día 24 Feedback UI Design/index.html'},
+    {nombre: 'Github Profile', dia: 'Día 25', h:'./ejercicios/Día 25 Github Profile/index.html'},
 ]
 
 const formulario = document.querySelector('#formulario')
